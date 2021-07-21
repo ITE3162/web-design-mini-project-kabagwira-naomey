@@ -1,0 +1,41 @@
+
+
+.dropbtn {
+  background-color: #0d006b;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  width: 200px;
+  align-content: center;
+  margin-top: 10px;
+  margin-left: -10px;
+}
+BODY
+{
+  background-color: black;
+}
+.well{
+   background-color: royalblue;
+   border: dotted;
+
+}
+#first{
+  text-align: center;
+  background-color:yellowgreen ;
+  padding: 20%;
+
+}
+.second {
+   border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+#text{
+  border:dotted;
+  background-color:yellowgreen;
+  
+} 
